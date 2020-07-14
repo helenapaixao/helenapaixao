@@ -1,28 +1,9 @@
-<p>
-  <samp>
-     Oie eu sou a <a href="https://www.linkedin.com/in/helenapaixao/"> Helena Paixão </a> 
-    <br />
-    <br />Atualmente eu desenvolvo aplicativos e sistema web
-    <br />Tecnologias: ReactJs, ReactNative, Vuejs, Node 
-    <br />
-    <br/>
-    :rocket: Linguagens e Frameworks
-    <br />
-    <br /><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152548-4d851a00-c28c-11ea-9f39-5a799361f051.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>               <code>
 
-  </samp>
-</p>
-<br />
-<p>
-  <samp>
-    :fire: Meus melhores repositórios
-    <br />
-    <br />
-    <a href="https://github.com/helenapaixao/vagasExplorer">
-      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=helenapaixao&repo=vagasExplorer" />
-    </a>
-  </samp>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-igorryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helenapaixao/)](https://www.linkedin.com/in/helenapaixao/)  [![Gmail Badge](https://img.shields.io/badge/-igorryan10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hp.helenapaixao@gmail.com)](mailto:hp.helenapaixao@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5567984582048)](https://api.whatsapp.com/send?phone=5567984582048)
+
+💻 I'm a full stack developer in the following technologies: Node.js, React and React Native.
+
+🎨 Passionate about art and always venturing in UI / UX and Graphic Design.
+
+
+
