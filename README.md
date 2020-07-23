@@ -5,5 +5,7 @@
 
 🎨 Passionate about art and always venturing in UI / UX and Graphic Design.
 
+![Helena Paixão github stats](https://github-readme-stats.vercel.app/api?username=helenapaixao&show_icons=true)
+
 
 
