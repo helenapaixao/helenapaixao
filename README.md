@@ -7,5 +7,8 @@
 
 ![Helena Paixão github stats](https://github-readme-stats.vercel.app/api?username=helenapaixao&show_icons=true)
 
+[![Switch between light and dark mode to see the difference. Click to see the source](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
