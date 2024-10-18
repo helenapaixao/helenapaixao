@@ -1,13 +1,30 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-helenapaixao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helenapaixao/)](https://www.linkedin.com/in/helenapaixao/)  [![Gmail Badge](https://img.shields.io/badge/-hp.helenapaixao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hp.helenapaixao@gmail.com)](mailto:hp.helenapaixao@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5567984582048)](https://api.whatsapp.com/send?phone=5567984582048)
 
-💻 I'm a full stack developer in the following technologies: Node.js, React and React Native.
 
-🎨 Passionate about art and always venturing in UI / UX and Graphic Design.
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
 
-![Helena Paixão github stats](https://github-readme-stats.vercel.app/api?username=helenapaixao&show_icons=true)
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=helenapaixao&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helenapaixao&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-[![Switch between light and dark mode to see the difference. Click to see the source](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)](https://github.com/pedroor/pedroor/blob/output/github-contribution-grid-snake.svg)
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=helenapaixao&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
 
 
 
